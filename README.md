@@ -1,10 +1,27 @@
-Program for unlocking "Fridge" for some old PC Game 
-![image](https://github.com/user-attachments/assets/3c5d2860-449d-487a-994b-5b25786f67ff)
+# Fridge Unlocker for Old PC Game
 
-"Fridge" is represented as array of arrays data structure:
-    boolean [][] init = {
-				{false, true, false, false},
-				{false, true, false, false},
-				{false, true, false, false},
-				{false, true, false, false}
-		};
+This program unlocks the "Fridge" in an old PC game.
+
+!Fridge Image
+
+## Description
+
+The "Fridge" is represented as an array of arrays data structure:
+
+```java
+boolean[][] init = {
+    {false, true, false, false},
+    {false, true, false, false},
+    {false, true, false, false},
+    {false, true, false, false}
+};
+
+## How to Use
+
+1. Clone the repository.
+2. Compile and run the program.
+3. Follow the on-screen instructions to unlock the "Fridge".
+
+## Requirements
+
+- Java 8 or higher
