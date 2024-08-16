@@ -2,7 +2,7 @@
 
 This program unlocks the "Fridge" in an old PC game.
 
-!Fridge Image
+![image](https://github.com/user-attachments/assets/3c5d2860-449d-487a-994b-5b25786f67ff)
 
 ## Description
 
